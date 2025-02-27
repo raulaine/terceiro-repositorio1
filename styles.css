@@ -1,3 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Arsenal+SC:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
-:root
+:root {
+    --cor-principal:#4E0980;
+    --cor1:#b2a7b8;
+    --cor2:#7e7383;
+    --cor3:#780000;
+    --cor4:#b4330d;
+    --preto: #000000;
+    --branco: #ffffff;
+}
+body {
+    font-size: 1rem;
+    font-family: 'Arsenal SC'; /*o nome da fonte*/
+}
