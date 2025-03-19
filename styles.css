@@ -13,3 +13,25 @@ body {
     font-size: 1rem;
     font-family: 'Arsenal SC'; /*o nome da fonte*/
 }
+
+#contato {
+    background: var(--cor-principal);
+    background-size: cover;
+    padding: 4rem 0;
+}
+
+.formulario {
+    background-color: var(--branco);
+ padding: 2rem; 
+ border-radios: 10px;
+ box-shadow: 0 0 10px #780000(0,0,0,0,1) ;
+ font-weight: bold;
+}
+.formulario button{
+    background-color: var(--cor3);
+    border: none;
+    font-weight: bold;
+}
+.form-control {
+    background-color: var(--cor2);
+}
