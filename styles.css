@@ -35,3 +35,24 @@ body {
 .form-control {
     background-color: var(--cor2);
 }
+
+section {
+    padding-bottom: 5rem;
+}
+
+.display-4 {
+    text-shadow: -5px 5px var(--cor3)
+}
+
+#nemlembro {
+ position: relative;
+paddin-top: 5rem;
+margin-top: 3rem;
+background: var(--cor1);
+background-size: 180px 180px;   
+}
+#tamd .container{
+ display: flex;
+ align-items: center;
+
+}
