@@ -43,16 +43,26 @@ section {
 .display-4 {
     text-shadow: -5px 5px var(--cor3)
 }
-
-#nemlembro {
- position: relative;
-paddin-top: 5rem;
-margin-top: 3rem;
-background: var(--cor1);
-background-size: 180px 180px;   
+#contato {
+    background: var(--cor-principal);
+    background-size: cover;
+    padding: 4rem 0;
 }
-#tamd .container{
- display: flex;
- align-items: center;
 
+.formulario{
+    background-color: var(--branco);
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    font-weight: bold;
+}
+
+.formulario button {
+    background-color: var(--cor3);
+    border: none;
+    font-weight: bold;
+}
+
+.form-control {
+    background-color: var(--cor2);
 }
