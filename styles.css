@@ -27,7 +27,7 @@ header {
 }
 
 .nav-link {
-    color: var(--laranja-claro);
+    color: var(--cor3);
     font-weight: 600;
 }
 
@@ -50,7 +50,7 @@ header {
 }
 
 .botao-inicio {
-    background-color: var(--laranja-claro);
+    background-color: var(--cor3);
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -60,7 +60,7 @@ header {
 
 
 .display-4 {
-    text-shadow: -5px 5px var(--laranja-claro);
+    text-shadow: -5px 5px var(--cor3);
 }
 
 #Toucanlore {
@@ -142,13 +142,13 @@ header {
 }
 
 .alto-contraste .nav-link {
-    color: var(--laranja-claro);
+    color: var(--cor3);
 }
 
 .alto-contraste .botao-inicio,
 .alto-contraste .formulario button,
 .alto-contraste .btn-primary {
-    background-color: var(--laranja-claro);
+    background-color: var(--cor3);
     color: var(--preto);
 }
 
